@@ -1,0 +1,25 @@
+span{
+    text-align: center;
+    align-items: center;
+}
+
+button{
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
+.wrapper{
+   padding-left: 40%;   
+   padding-top: 100px;
+}
+
+#mt{
+    padding-left: 45px;
+}
+
+#spn{
+    padding-left: 65px;
+}
+
